@@ -9,9 +9,9 @@ Este repositório foi criado no início da minha graduação para desenvolver ba
 
 ## 🧠 Exercícios
 
-- ✔ Validação de Login
-- ✔ Verificação de Idade
-- ✔ Simulação de Caixa de Loja
+- Validação de Login
+- Verificação de Idade
+- Simulação de Caixa de Loja
 
 ## 🚀 Aprendizados
 
