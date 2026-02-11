@@ -3,17 +3,17 @@
 👩🏻‍💻 Estudante de Sistemas de Informação  
 🎯 Foco em Quality Assurance (QA)
 
-## 📌 Objetivo
+## Objetivo
 
 Este repositório foi criado no início da minha graduação para desenvolver base sólida em lógica de programação com foco em qualidade de software.
 
-## 🧠 Exercícios
+## Exercícios
 
 - Validação de Login
 - Verificação de Idade
 - Simulação de Caixa de Loja
 
-## 🚀 Aprendizados
+## Aprendizados
 
 - Estruturas condicionais (if/else)
 - Validação de dados
